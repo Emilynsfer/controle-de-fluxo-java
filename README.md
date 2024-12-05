@@ -1,7 +1,7 @@
 <h1>:large_blue_diamond: Projeto em Java sobre controle de fluxos</h1>
 
 
-<h3>Seja bem-vindo ao projeto de hoje! Esse projeo faz parte da trilha de aprendizagem do bootcamp Java com Spring Boot na DIO.</h3>
+<h3>Seja bem-vindo ao projeto de hoje! Esse projeto faz parte da trilha de aprendizagem do bootcamp Java com Spring Boot na DIO.</h3>
 
 <h2>:large_blue_diamond: Como funciona o projeto?</h2>
 
